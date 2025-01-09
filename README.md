@@ -1,4 +1,4 @@
-# Capstone-Project-PHASE-3
+# Capstone-Project
 Machine Learning Project: Taiwan Air Quality Index Data
 
 Project Title: Taiwan Air Quality Index Data
