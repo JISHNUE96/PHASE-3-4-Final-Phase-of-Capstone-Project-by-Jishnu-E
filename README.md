@@ -13,7 +13,7 @@ Objective:
 To forecast the Air Quality Index (AQI) based on various air pollutants.
 To predict PM2.5 levels, which are a significant factor in air quality monitoring.
 Data Description:
-The dataset is sourced from Kaggle (https://www.kaggle.com/datasets/taweilo/taiwan-air-quality-data-20162024). Initially containing 1,048,576 rows of extensive air quality data, it was filtered to focus on a month's worth of data (62,964 rows) to make the analysis more manageable. The dataset includes multiple features, including date, time, geographical coordinates, AQI, pollutant levels, wind speed and direction, and several moving averages for pollutants such as PM2.5, PM10, SO2, CO, etc.
+The dataset is sourced from Kaggle (https://www.kaggle.com/datasets/taweilo/taiwan-air-quality-data-20162024). Initially containing <b>1,048,576</b> rows of extensive air quality data, it was filtered to focus on a month's worth of data (62,964 rows) to make the analysis more manageable. The dataset includes multiple features, including date, time, geographical coordinates, AQI, pollutant levels, wind speed and direction, and several moving averages for pollutants such as PM2.5, PM10, SO2, CO, etc.
 
 Key features include:
 
